@@ -2,6 +2,8 @@
 
 A quick and easy to get a local CouchDB instance up and running without needing to install it locally.
 
+![](https://raw.githubusercontent.com/owainlewis/vagrant-couchdb/master/resource/preview.png)
+
 ## About
 
 + Ubuntu 14.04
