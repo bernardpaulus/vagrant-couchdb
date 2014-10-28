@@ -23,6 +23,10 @@ curl localhost:5984
 
 ```
 
+## Admin tool
+
+Visit http://localhost:5984/_utils/ in your browser to access the Couch admin tool.
+
 ## Advanced
 
 You can customize the local.ini file before provisioning
